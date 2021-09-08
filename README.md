@@ -1,2 +1,2 @@
 # Data-Science
-This repository would contain different tutorials in python related to Data Science
+This repository contains different tutorials in python related to Data Science
